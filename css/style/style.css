@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contato{
+    text-align: center;
+    color: red;
+}
+p{
+    color: darkred;
+}
+img{
+    
+    width: 100%;
+}

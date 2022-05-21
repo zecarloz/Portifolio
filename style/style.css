@@ -1,0 +1,48 @@
+
+.container{
+    margin-top: 120px;
+}
+.navbar{
+    margin-left: 50px;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(77, 167, 36);
+    width: auto;
+    border-radius: 15px;
+    
+}
+.nav-link{
+    width: 60px;
+    color: azure;
+}
+.foto{
+margin-top: 10px;
+margin-left: 50px;
+display: inline-block;
+text-align: center;
+}
+header{
+    background-color: aqua;
+    width: 50px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.navbar-brand{
+    text-align: right;
+}
+.formacao{
+    background-color: rgb(177, 219, 219);
+    border-radius: 15px;
+}
+.navibar{
+    width: auto;border-radius: 10px;
+}
+.footer{
+    background-color: rgb(76, 80, 76);
+    border-radius: 5px;
+    color: white;
+}

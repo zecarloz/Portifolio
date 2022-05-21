@@ -3,7 +3,7 @@
     margin-top: 140px;
 }
 .navbar{
-    margin-left: 50px;
+    margin:0px 20px;
     border-radius: 5px;
 }
 h1{
@@ -14,10 +14,7 @@ h1{
     box-shadow: 10px 5px 10px; 
     
 }
-.nav-link{
-    width: 60px;
-    color: rgb(19, 26, 26);
-}
+
 .foto{
 margin-top: 10px;
 
@@ -33,25 +30,25 @@ header{
 h4{
     text-align: center;
 }
-.navbar-brand{
-    text-align: right;
-}
 .formacao{
-    background-color: rgb(181, 189, 189);
+    background-color: rgb(18, 15, 214);
     border-radius: 15px;
     box-shadow: 15px 10px 12px;
     margin-bottom: 15px;
-}
-.navibar{
-    width: auto;border-radius: 10px;
+    color: rgb(177, 165, 165);
 }
 .footer{
     background-color: rgb(76, 80, 76);
     border-radius: 5px;
     color: white;
+    margin-top: 10px;
 }
 .navbar-toggler-icon ,a{
     color: blanchedalmond;
     background-color: rgb(238, 237, 243);
     
 }
+section h6{text-align: center;
+color: red;
+}
+

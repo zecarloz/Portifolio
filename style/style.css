@@ -1,27 +1,29 @@
 
 .container{
-    margin-top: 120px;
+    margin-top: 140px;
 }
 .navbar{
     margin-left: 50px;
     border-radius: 5px;
 }
 h1{
-    text-align: center;
-    background-color: rgb(77, 167, 36);
+
+    background-color: #ccc ;
     width: auto;
-    border-radius: 15px;
+    border-radius: 15px;  
+    box-shadow: 10px 5px 10px; 
     
 }
 .nav-link{
     width: 60px;
-    color: azure;
+    color: rgb(19, 26, 26);
 }
 .foto{
 margin-top: 10px;
-margin-left: 50px;
+
 display: inline-block;
 text-align: center;
+background-color: aqua;
 }
 header{
     background-color: aqua;
@@ -35,8 +37,10 @@ h4{
     text-align: right;
 }
 .formacao{
-    background-color: rgb(177, 219, 219);
+    background-color: rgb(181, 189, 189);
     border-radius: 15px;
+    box-shadow: 15px 10px 12px;
+    margin-bottom: 15px;
 }
 .navibar{
     width: auto;border-radius: 10px;
@@ -45,4 +49,9 @@ h4{
     background-color: rgb(76, 80, 76);
     border-radius: 5px;
     color: white;
+}
+.navbar-toggler-icon ,a{
+    color: blanchedalmond;
+    background-color: rgb(238, 237, 243);
+    
 }

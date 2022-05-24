@@ -1,7 +1,7 @@
 
-.container{
+container{
     margin-top: 26px;
-    /*background-color:rgb(207, 235, 214);*/
+    /* background-color:rgb(207, 235, 214); */
 }
 .navbar{
     margin:0px 20px;
@@ -14,7 +14,7 @@ h1{
     background-color: #fff ;
     width: 400px;
     border-radius: 15px;  
-    box-shadow: 10px 5px 10px; 
+    box-shadow: 5px 5px 5px; 
     text-align: center;
     margin: 80px;
     
@@ -30,13 +30,15 @@ h3{
 }
 
 .foto{
-    width: 450px;
-    background-color: rgb(30, 42, 214);
+    width: 500px;
+    
+    background-color: rgb(162, 166, 223);
     margin: 5px;
     display: inline-flex;
     border-radius: 10px;
     text-align: justify;
     color: white;
+    box-shadow: 5px 5px 5px black;
  
 }
 .foto2{
@@ -49,16 +51,18 @@ header{
 }
 h4{
     text-align: right;
+    
+   
 }
 .formacao{
-    background-color: #0a0c8bfb;
+    background-color: rgb(135, 180, 238);
     border-radius: 15px;
-    box-shadow: 15px 10px 1px rgb(154, 154, 190);
+    box-shadow: 5px 5px 5px black;
     margin-bottom: 10px 0px 15px 0px;
-    color: white ;
+    color: rgb(0, 0, 0) ;
 }
 .footer{
-    background-color: rgb(76, 80, 76);
+    background-color: rgb(0, 0, 0);
     border-radius: 5px;
     color: white;
     margin-top: 10px;
@@ -69,11 +73,11 @@ h4{
     
 }
 section h5{
-    text-align: center;
+    text-align: right;
     color: rgb(13, 26, 202);
 }
 .destaque{
-    color: yellow;
+    color: rgb(14, 0, 211);
 }
 a{
     background-color: rgb(178, 200, 201);
@@ -83,4 +87,9 @@ a{
 }
 .end{
     text-align: right;
+    
+}
+li{
+    color: rgb(0, 0, 0);
+    
 }

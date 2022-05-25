@@ -1,0 +1,42 @@
+*{margin: 0;
+padding: 0;
+}
+.lista{
+    background-color: aquamarine;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.list-group{
+    text-align: center;
+    border-radius: 20px;
+    background-color: aqua;
+    box-shadow: 5px 5px 1px ;
+    
+}
+.rodape{
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+   
+}
+.list-group-item{
+    color: rgb(7, 31, 247);
+}
+a{
+    color: white;
+}
+h4{
+    text-align: center;
+}

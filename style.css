@@ -1,32 +1,47 @@
 
 
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
   }
 
-*{margin: 0;
-padding: 0;
+
+body{
+    background-color: rgb(57, 49, 177);
 }
 .lista{
-    background-color: rgb(240, 219, 219);
+    background-color: rgb(236, 24, 35);
 }
 h3{
     text-align: center;
     font-size: medium;
+    background-color: cyan;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px rgb(48, 42, 42);
 }
 h1{
     text-align: center;
+    background-color: rgb(139, 223, 238);
+    border-radius: 15px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgb(48, 42, 42);
 }
 h5{
     text-align: center;
     font-size: 15px;
-    color: rgb(51, 66, 133);
+    color: rgb(245, 246, 255);
+    border-radius: 20px;
+    background-color: rgb(56, 56, 50);
+    box-shadow: 5px 5px 5px rgb(48, 42, 42);
+    padding: 8px;
 }
 .list-group{
     text-align: center;
-    border-radius: 20px;
+    border-radius:45px;
     background-color: aqua;
-    box-shadow: 5px 5px 1px ;
+    box-shadow: 5px 5px 8px ;
     padding: 10px;
     
 }
@@ -39,6 +54,7 @@ h5{
     margin: 10px;
     padding: 15px;
     position: relative;
+    box-shadow: 5px 10px 3px rgb(104, 84, 90);
     
    
    
@@ -55,10 +71,17 @@ a{
 h4{
     text-align: center;
     font-size: medium;
+    background-color: rgb(143, 144, 206);
+    border-radius: 20px;
+    padding: 5px;
 }
 p{
     font-size: 20px;
     text-align: center;
+    box-shadow: 5px 5px 5px rgb(48, 42, 42);
+    border-radius: 30px;
+    color: rgb(2, 11, 37);
+    background-color: rgb(176, 163, 235);
 
 }
 
@@ -67,7 +90,7 @@ h6{
     color: rgb(76, 0, 255);
 }
 .destaque{
-    color: rgb(0, 17, 255);
+    color: rgb(241, 238, 16);
 }
 .navbar{
     border-radius: 20px ;

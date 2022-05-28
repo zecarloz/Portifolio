@@ -12,13 +12,14 @@ padding: 0;
 }
 h3{
     text-align: center;
+    font-size: medium;
 }
 h1{
     text-align: center;
 }
 h5{
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     color: rgb(51, 66, 133);
 }
 .list-group{
@@ -44,7 +45,7 @@ h5{
 }
 .list-group-item{
     color: rgb(12, 14, 12);
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
     
 }
@@ -53,6 +54,7 @@ a{
 }
 h4{
     text-align: center;
+    font-size: medium;
 }
 p{
     font-size: 20px;

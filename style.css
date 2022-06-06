@@ -8,39 +8,35 @@
 
 
 body{
-    background-color: rgb(57, 49, 177);
+    
+    font-family :monospace
 }
 .lista{
     background-color: rgb(236, 24, 35);
 }
 h3{
+    margin: 10px;
     text-align: center;
-    font-size: medium;
+    /* font-size: 20px; */
     background-color: cyan;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     padding: 5px;
     box-shadow: 5px 5px 5px rgb(48, 42, 42);
 }
 h1{
     text-align: center;
-    background-color: rgb(139, 223, 238);
-    border-radius: 15px;
+    background-color: rgb(181, 232, 241);
+    
     margin: 10px;
     box-shadow: 5px 5px 5px rgb(48, 42, 42);
 }
 h5{
+    height: 250px;
     text-align: center;
-    font-size: 15px;
-    color: rgb(245, 246, 255);
-    border-radius: 20px;
-    background-color: rgb(56, 56, 50);
-    box-shadow: 5px 5px 5px rgb(48, 42, 42);
-    padding: 8px;
 }
 .list-group{
     text-align: center;
-    border-radius:45px;
-    background-color: aqua;
+    background-color: rgb(38, 43, 43);
     box-shadow: 5px 5px 8px ;
     padding: 10px;
     
@@ -50,7 +46,7 @@ h5{
     background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
-    border-radius: 30px;
+    border-radius: 0px;
     margin: 10px;
     padding: 15px;
     position: relative;
@@ -59,40 +55,62 @@ h5{
    
    
 }
-.list-group-item{
+.list-group{
     color: rgb(12, 14, 12);
     font-size: 15px;
-    font-weight: 700;
-    
+    font-weight: 700; 
+    border: 5px solid rgb(245, 238, 238);   
 }
 a{
-    color: white;
+    color: rgb(13, 17, 241);
 }
-h4{
-    text-align: center;
-    font-size: medium;
-    background-color: rgb(143, 144, 206);
-    border-radius: 20px;
-    padding: 5px;
-}
+
 p{
+    margin: 10px;
     font-size: 20px;
     text-align: center;
     box-shadow: 5px 5px 5px rgb(48, 42, 42);
-    border-radius: 30px;
+    
     color: rgb(2, 11, 37);
-    background-color: rgb(176, 163, 235);
+    background-color: rgb(203, 219, 204);
 
 }
 
 h6{
     font-size: 30px;
-    color: rgb(76, 0, 255);
+    color: rgb(245, 252, 250);
 }
 .destaque{
-    color: rgb(241, 238, 16);
+    color: rgb(231, 233, 103);
+    font-weight: 900;
+}
+
+
+/* .cor{
+   
+   background-color: rgb(80, 124, 160); 
+    
+} */
+.cor1{
+    background-color: rgb(27, 28, 29);
+    font-size: 20px;
+    color: rgb(243, 250, 240);
+    border: solid 5px rgb(242, 245, 245);
+}
+.cor2{
+    background-color: rgb(45, 56, 65);
+    border: 5px solid white;
+   
+}
+
+.row{
+    background-color: lightblue;
+    margin: 10px;
+    
+}
+.col{
+    margin: 20px;
 }
 .navbar{
-    border-radius: 20px ;
-    box-shadow: 5px 5px 8px;
+    margin: 10px;
 }

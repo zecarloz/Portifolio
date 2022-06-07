@@ -98,7 +98,7 @@ h6{
     border: solid 5px rgb(242, 245, 245);
 }
 .cor2{
-    background-color: rgb(45, 56, 65);
+    background-color: rgb(113, 165, 113);
     border: 5px solid white;
    
 }
@@ -113,4 +113,10 @@ h6{
 }
 .navbar{
     margin: 10px;
+}
+.list{
+    margin-top: 60px;
+    list-style : none;
+    font-size: 20px;
+    text-align: center;
 }

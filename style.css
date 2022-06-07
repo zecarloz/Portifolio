@@ -18,14 +18,14 @@ h3{
     margin: 10px;
     text-align: center;
     /* font-size: 20px; */
-    background-color: cyan;
+    background-color: rgb(237, 245, 245);
     /* border-radius: 20px; */
     padding: 5px;
     box-shadow: 5px 5px 5px rgb(48, 42, 42);
 }
 h1{
     text-align: center;
-    background-color: rgb(181, 232, 241);
+    background-color: rgb(229, 237, 238);
     
     margin: 10px;
     box-shadow: 5px 5px 5px rgb(48, 42, 42);
@@ -69,16 +69,16 @@ p{
     margin: 10px;
     font-size: 20px;
     text-align: center;
-    box-shadow: 5px 5px 5px rgb(48, 42, 42);
+    box-shadow: 5px 5px 5px rgb(36, 5, 5);
     
     color: rgb(2, 11, 37);
-    background-color: rgb(203, 219, 204);
+    background-color: rgb(238, 247, 246);
 
 }
 
 h6{
     font-size: 30px;
-    color: rgb(245, 252, 250);
+    color: rgb(67, 247, 12);
 }
 .destaque{
     color: rgb(231, 233, 103);
@@ -92,14 +92,14 @@ h6{
     
 } */
 .cor1{
-    background-color: rgb(27, 28, 29);
+    background-color: rgb(20, 56, 92);
     font-size: 20px;
     color: rgb(243, 250, 240);
     border: solid 5px rgb(242, 245, 245);
 }
 .cor2{
-    background-color: rgb(113, 165, 113);
-    border: 5px solid white;
+    background-color: rgb(248, 252, 248);
+    border: 5px solid rgb(107, 103, 103);
    
 }
 

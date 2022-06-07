@@ -8,7 +8,7 @@
 
 
 body{
-    
+    background-color: black;
     font-family :monospace ;
    
 }
@@ -44,14 +44,14 @@ h5{
 }
 .rodape{
     height: 130px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(19, 76, 199);
     color: white;
     text-align: center;
     border-radius: 0px;
     margin: 10px;
     padding: 15px;
     position: relative;
-    box-shadow: 5px 10px 3px rgb(104, 84, 90);
+    box-shadow: 5px 5px 3px rgb(13, 13, 243);
     
    
    
@@ -63,7 +63,7 @@ h5{
     border: 5px solid rgb(245, 238, 238);   
 }
 a{
-    color: rgb(13, 17, 241);
+    color: rgb(37, 3, 26);
 }
 
 p{
@@ -79,10 +79,10 @@ p{
 
 h6{
     font-size: 30px;
-    color: rgb(67, 247, 12);
+    color: rgb(15, 37, 8);
 }
 .destaque{
-    color: rgb(231, 233, 103);
+    color: rgb(224, 19, 19);
     font-weight: 900;
 }
 .estilo{
@@ -95,10 +95,11 @@ h6{
     
 } */
 .cor1{
-    background-color: rgb(129, 141, 153);
+    background-color: rgb(214, 230, 214);
     font-size: 20px;
-    color: rgb(243, 250, 240);
+    color: rgb(6, 53, 33);
     border: solid 5px rgb(2, 20, 20);
+    text-align: center;
 }
 .cor2{
     background-color: rgb(149, 235, 153);

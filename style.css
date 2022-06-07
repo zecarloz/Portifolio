@@ -9,11 +9,12 @@
 
 body{
     
-    font-family :monospace
+    font-family :monospace ;
+   
 }
-.lista{
+/* .lista{
     background-color: rgb(236, 24, 35);
-}
+} */
 h3{
     margin: 10px;
     text-align: center;
@@ -84,7 +85,9 @@ h6{
     color: rgb(231, 233, 103);
     font-weight: 900;
 }
-
+.estilo{
+    margin: auto;
+}
 
 /* .cor{
    
@@ -92,13 +95,13 @@ h6{
     
 } */
 .cor1{
-    background-color: rgb(20, 56, 92);
+    background-color: rgb(129, 141, 153);
     font-size: 20px;
     color: rgb(243, 250, 240);
-    border: solid 5px rgb(242, 245, 245);
+    border: solid 5px rgb(2, 20, 20);
 }
 .cor2{
-    background-color: rgb(248, 252, 248);
+    background-color: rgb(149, 235, 153);
     border: 5px solid rgb(107, 103, 103);
    
 }
@@ -110,9 +113,6 @@ h6{
 }
 .col{
     margin: 20px;
-}
-.navbar{
-    margin: 10px;
 }
 .list{
     margin-top: 60px;

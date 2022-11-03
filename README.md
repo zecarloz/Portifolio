@@ -11,4 +11,4 @@
 #####   Ética no trabalho |||   Criatividade</li>
 #####   Liderança |||   Pensamento critico</li>
            
-###### Visite minha Home page em : https://zecarloz.github.io/portifolio/index.html
+###### Visite minha Home page em : https://zecarloz.github.io/Portifolio/

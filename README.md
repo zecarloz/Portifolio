@@ -1,4 +1,4 @@
-# portifólio de José
+# Currículo de José Carlos
 ## Olá ,Meu nome é José carlos de oliveira . Apaixonado por programação.
 ## =========================Hard Skills 
 #####   Fluencia em HTML5 CSS3 e JAVASCRIPT ||| Resolução de algoritmos</li>                                        
